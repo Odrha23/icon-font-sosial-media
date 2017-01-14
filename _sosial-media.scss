@@ -1,0 +1,119 @@
+    /*
+    sosial-media icon font: sosial-media
+    Creation date: 19/09/2016 12:27
+    */
+
+    @font-face {
+  font-family: "sosial-media";
+  src: url("./sosial-media.eot");
+  src: url("./sosial-media.eot?#iefix") format("embedded-opentype"),
+       url("./sosial-media.woff") format("woff"),
+       url("./sosial-media.ttf") format("truetype"),
+       url("./sosial-media.svg#sosial-media") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "sosial-media";
+    src: url("./sosial-media.svg#sosial-media") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "sosial-media";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .sosial-media-amazon:before { content: "\f100"; }
+.sosial-media-android:before { content: "\f101"; }
+.sosial-media-apple:before { content: "\f102"; }
+.sosial-media-behance:before { content: "\f103"; }
+.sosial-media-blackberry:before { content: "\f104"; }
+.sosial-media-blogger:before { content: "\f105"; }
+.sosial-media-deviantart:before { content: "\f106"; }
+.sosial-media-dribbble:before { content: "\f107"; }
+.sosial-media-dropbox:before { content: "\f108"; }
+.sosial-media-facebook:before { content: "\f109"; }
+.sosial-media-flickr:before { content: "\f10a"; }
+.sosial-media-google-chrome:before { content: "\f10b"; }
+.sosial-media-google-drive:before { content: "\f10c"; }
+.sosial-media-google-play:before { content: "\f10d"; }
+.sosial-media-google-plus:before { content: "\f10e"; }
+.sosial-media-instagram:before { content: "\f10f"; }
+.sosial-media-internet-explorer:before { content: "\f110"; }
+.sosial-media-kickstarter:before { content: "\f111"; }
+.sosial-media-linkedin:before { content: "\f112"; }
+.sosial-media-opera:before { content: "\f113"; }
+.sosial-media-paypal:before { content: "\f114"; }
+.sosial-media-picasa:before { content: "\f115"; }
+.sosial-media-pinterest:before { content: "\f116"; }
+.sosial-media-reddit:before { content: "\f117"; }
+.sosial-media-skype:before { content: "\f118"; }
+.sosial-media-snapchat:before { content: "\f119"; }
+.sosial-media-soundcloud:before { content: "\f11a"; }
+.sosial-media-steam:before { content: "\f11b"; }
+.sosial-media-stumbleupon:before { content: "\f11c"; }
+.sosial-media-tumblr:before { content: "\f11d"; }
+.sosial-media-twitter:before { content: "\f11e"; }
+.sosial-media-viber:before { content: "\f11f"; }
+.sosial-media-vimeo:before { content: "\f120"; }
+.sosial-media-vine:before { content: "\f121"; }
+.sosial-media-whatsapp:before { content: "\f122"; }
+.sosial-media-windows:before { content: "\f123"; }
+.sosial-media-wordpress:before { content: "\f124"; }
+.sosial-media-yahoo:before { content: "\f125"; }
+.sosial-media-yelp:before { content: "\f126"; }
+.sosial-media-youtube:before { content: "\f127"; }
+    
+    $font-sosial-media-amazon: "\f100";
+    $font-sosial-media-android: "\f101";
+    $font-sosial-media-apple: "\f102";
+    $font-sosial-media-behance: "\f103";
+    $font-sosial-media-blackberry: "\f104";
+    $font-sosial-media-blogger: "\f105";
+    $font-sosial-media-deviantart: "\f106";
+    $font-sosial-media-dribbble: "\f107";
+    $font-sosial-media-dropbox: "\f108";
+    $font-sosial-media-facebook: "\f109";
+    $font-sosial-media-flickr: "\f10a";
+    $font-sosial-media-google-chrome: "\f10b";
+    $font-sosial-media-google-drive: "\f10c";
+    $font-sosial-media-google-play: "\f10d";
+    $font-sosial-media-google-plus: "\f10e";
+    $font-sosial-media-instagram: "\f10f";
+    $font-sosial-media-internet-explorer: "\f110";
+    $font-sosial-media-kickstarter: "\f111";
+    $font-sosial-media-linkedin: "\f112";
+    $font-sosial-media-opera: "\f113";
+    $font-sosial-media-paypal: "\f114";
+    $font-sosial-media-picasa: "\f115";
+    $font-sosial-media-pinterest: "\f116";
+    $font-sosial-media-reddit: "\f117";
+    $font-sosial-media-skype: "\f118";
+    $font-sosial-media-snapchat: "\f119";
+    $font-sosial-media-soundcloud: "\f11a";
+    $font-sosial-media-steam: "\f11b";
+    $font-sosial-media-stumbleupon: "\f11c";
+    $font-sosial-media-tumblr: "\f11d";
+    $font-sosial-media-twitter: "\f11e";
+    $font-sosial-media-viber: "\f11f";
+    $font-sosial-media-vimeo: "\f120";
+    $font-sosial-media-vine: "\f121";
+    $font-sosial-media-whatsapp: "\f122";
+    $font-sosial-media-windows: "\f123";
+    $font-sosial-media-wordpress: "\f124";
+    $font-sosial-media-yahoo: "\f125";
+    $font-sosial-media-yelp: "\f126";
+    $font-sosial-media-youtube: "\f127";
